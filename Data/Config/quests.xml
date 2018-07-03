@@ -1861,7 +1861,7 @@
 		<reward type="Item" id="dinnerPlate" value="10"/>
 	</quest>
 	<!--Zombie Kills-->
-	<quest id="quest_ZombieSlayer01" name_key="quest_ZombieSlayer01" subtitle_key="quest_ZombieSlayer01_subtitle" description_key="quest_ZombieSlayer01_description"   	 	offer_key="quest_ZombieSlayer01_description" category_key="quest" difficulty="insane">
+	<quest id="quest_ZombieSlayer01" name_key="quest_ZombieSlayer" subtitle_key="quest_ZombieSlayer01_subtitle" description_key="quest_ZombieSlayer01_description"   	 	offer_key="quest_ZombieSlayer01_description" category_key="quest" difficulty="insane">
 		<reward type="Quest" id="quest_ZombieSlayer02"/>
 	</quest>
 	<quest id="quest_ZombieSlayer02" group_name_key="quest_ZombieSlayer" name_key="quest_ZombieSlayer02" subtitle_key="quest_ZombieSlayer02_subtitle" description_key="quest_ZombieSlayer02_description" icon="ui_game_symbol_zombie"  	offer_key="quest_ZombieSlayer02_description"   repeatable="true" category_key="quest" difficulty="easy">
