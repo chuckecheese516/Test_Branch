@@ -448,7 +448,6 @@
 		<reward type="Item" id="sewingKit" value="1"/>
 	</quest>
 	<quest id="challenge_theTerrorsReward" 	group_name_key="quest_wftc"	name_key="challenge_theTerrorsReward" offer_key="challenge_theTerrorsReward_offer"  subtitle_key="challenge_theTerrorsReward_subtitle" 	description_key="challenge_theTerrorsReward_description"  	icon="ui_game_symbol_zombie" 	repeatable="false" 	category_key="quest" 	difficulty="insane">
-		<objective type="ZombieKill" id="terrorRath" value="10" />
 		<objective type="ZombieKill" id="terrorConvict" value="10" />
 		<objective type="ZombieKill" id="terrorButcher" value="10" />
 		<objective type="ZombieKill" id="terrorCrazed" value="10" />
@@ -482,7 +481,6 @@
 		<reward type="SkillPoints" value="3" />
 	</quest>
 	<quest id="challenge_theTerrors" 	group_name_key="quest_wftc"	name_key="challenge_theTerrors" offer_key="challenge_theTerrors_offer"  subtitle_key="challenge_theTerrors_subtitle" 	description_key="challenge_theTerrors_description"  	icon="ui_game_symbol_zombie" 	repeatable="false" 	category_key="quest" 	difficulty="insane">
-		<objective type="ZombieKill" id="terrorRath" value="1" />
 		<objective type="ZombieKill" id="terrorConvict" value="1" />
 		<objective type="ZombieKill" id="terrorButcher" value="1" />
 		<objective type="ZombieKill" id="terrorCrazed" value="1" />
