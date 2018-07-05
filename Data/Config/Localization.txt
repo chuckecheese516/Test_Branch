@@ -8360,4 +8360,6 @@ GhoulFemale,entityclasses,Entity,New,Whisperer Wife,,
 GhoulFemale2,entityclasses,Entity,New,Whisperer Female,,
 GhoulFemaleScreamer,entityclasses,Entity,New,Whisperer Scout,,
 zombieHooker,entityclasses,Entity,New,Whisperer Dancer,,
+resistanceMixture,,,,Virus Resistance Mixture,,
+resistanceMixtureDesc,,,,This mixture has been specially developed to be used in conjunction with other chemicals to create a powerful resistance to Infections and poisons.\n [ Crafted in [eaa1a1]Mortar and Pestle.[-]  ],,
 
